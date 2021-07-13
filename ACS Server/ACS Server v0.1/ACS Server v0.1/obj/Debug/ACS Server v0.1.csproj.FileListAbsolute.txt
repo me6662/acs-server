@@ -1,0 +1,10 @@
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\bin\Debug\ACS Server v0.1.exe.config
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\bin\Debug\ACS Server v0.1.exe
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\bin\Debug\ACS Server v0.1.pdb
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACS Server v0.1.csprojAssemblyReference.cache
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACS_Server_v0._1.Properties.Resources.resources
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACS Server v0.1.csproj.GenerateResource.cache
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACS Server v0.1.csproj.CoreCompileInputs.cache
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACS Server v0.1.exe
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACS Server v0.1.pdb
+C:\Users\dideh\Desktop\ACS Server\ACS Server v0.1\ACS Server v0.1\obj\Debug\ACSTestServer.Form1.resources
